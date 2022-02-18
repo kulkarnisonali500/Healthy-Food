@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+  <link href="style.css" rel="stylesheet" />
+  <head>
+    <title>Foodies' site</title>
+  </head>
+
+  <body>
+    <h1>HEALTHY FOOD</h1>
+
+    <p>
+      Welcome Foodies<em>!!!!!</em> 😋😋😋😋😋 Here, mostly we will see about
+      the benefits of nutritious diets.
+    </p>
+
+    <p>
+      As, we say Health is wealth. It really matters for us. 
+      <br>Below are the profits that I have listed
+    </p>
+
+    <ul class="benefits">
+      <li>Flexible body</li>
+      <li>Good mood</li>
+      <li>Fresh start of the day!</li>
+    </ul>
+
+    <p>
+      We will also have a look at number of dishes that have all the below
+      qualities :
+    </p>
+
+    <ol class="qualities">
+      <li>Pure vegetarian</li>
+      <li>Yummy</li>
+      <li>Nutritious</li>
+    </ol>
+
+    <p>Few vegetables that I feel are best for all are attached with pics</p>
+
+    <img class="one" src="Spinach.jpg" alt="Spinach" />
+    <img class="two" src="Carrot.jpg" alt="Carrot" />
+    <img class="three" src="Fenugreek Leaves.jpg" alt="Fengreek" />
+    <img class="four" src="Mint Leaves.jpg" alt="Mint" />
+    <img class="five" src="Beetroot.jpg" alt="Beetroot" />
+    <img class="six" src="Cucumber.jpg" alt="Cucumber" />
+    <img class="seven" src="Coriander.jpg" alt="Coriander" />
+
+    <p>
+      Now, as I have listed all the above vegetables. I will like to also share
+      the recipes of few delicious dishes that we can make on our own at home.
+    </p>
+  </body>
+
+  <article>
+    <p>
+      - So, going through the pics the initial pic is of Spinach Leaves. So, we
+      can cook it in Indian way and make it more tasty.
+    </p>
+    <a href="#"> Here </a>
+
+  <p> - Gajar Ka Halwa :) 
+    <br>
+    <br>This is a sweet dish. And for this recipe you can click <a href="#"> here</a> </a>
+  </p>
+</article>
+
+</html>
